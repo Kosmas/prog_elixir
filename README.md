@@ -1,6 +1,6 @@
 prog_elixir
 ===========
 
-Programming Elixir - Pragmatic Programmers book by Dave Thomas
+Programming Elixir 1.2 - Pragmatic Programmers book by Dave Thomas
 
-B12.0.12.0 - December 16, 2013 
+B1.1 - March 02, 2016 
